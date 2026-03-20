@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MWBounce/MWBounce.vcxproj" Id="85121da0-0641-480e-969b-083bb5a03755" />
+</Solution>
